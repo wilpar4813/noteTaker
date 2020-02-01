@@ -25,7 +25,7 @@ module.exports = function(app) {
 
   app.get("/api/notes/:id", (req, res) => {
       //Find the note to get
-      const note = notes.find(c => c.id === parseInt("req.params.id"));
+      const note = notes.find(c => c.id === parseInt(req.params.id));
       //404 for no note found
       if (!note) return res.status(404).send('This note was not found');
       
@@ -39,9 +39,9 @@ module.exports = function(app) {
           title: req.body.title,
           text: req.body.text
       };
-      console.log(note);
+      //console.log(note);
       notes.push(note);
-      console.log(notes.length);
+      //console.log(notes.length);
       fs.writeFile("./db/notes.json", JSON.stringify(notes), function (err) {
         if (err) throw err;
         console.log("Writing to json file");
@@ -50,15 +50,18 @@ module.exports = function(app) {
       res.send(note);
   });
   app.delete("/api/notes/:id", (req, res) => {
-    console.log("hello");
+    //console.log("hello");
+    //console.log(notes);
     //Find the note to delete
-    const note = notes.find(c => c.id === parseInt("req.params.id"));
+    var note = notes.find(c => c.id === parseInt(req.params.id));
     //404 for no note found
+    //console.log(note);
+   
     console.log(note);
-    
     if (!note) return res.status(404).send('This note was not found');
-
-    const index = notes.indexOf(note.id);
+    console.log(note);
+    const index = notes.indexOf(note);
+    console.log(index);
     //Remove note from selected index
     notes.splice(index,1);
     //Write to json file updated list of notes
@@ -69,7 +72,6 @@ module.exports = function(app) {
       });
     res.send(note);
         
-
 });
 
 };

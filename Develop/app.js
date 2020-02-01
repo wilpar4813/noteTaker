@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 // LISTENER
 // The below code effectively "starts" our server
 // =============================================================================
-app.listen(PORT, () => console.log(`App listening on port ${PORT}`));
+
 // Sets up the Express app to handle data parsing
 app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
@@ -32,4 +32,4 @@ require("./routes/htmlRoutes")(app);
 // The below code effectively "starts" our server
 // =============================================================================
 
-
+app.listen(PORT, () => console.log(`App listening on port ${PORT}`));
