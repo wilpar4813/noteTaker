@@ -13,7 +13,7 @@
 ***Configuration instructions***
 
 - Goto the following link:
-
+https://tripps-note-taker.herokuapp.com
 https://github.com/wilpar4813/noteTaker
 
 
