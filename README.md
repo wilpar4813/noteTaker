@@ -19,6 +19,8 @@ https://github.com/wilpar4813/noteTaker
 
 ***Installation instructions***
 
+- Goto https://tripps-note-taker.herokuapp.com on a web browser like Google Chrome.
+- OR...
 - Download files from repositiory.
 - Enter npm install from home directory at command line.
 - Enter node apps.js at command line
