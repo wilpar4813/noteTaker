@@ -27,6 +27,10 @@ app.use(express.json());
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
+app.get("/", function(req, res) {
+    res.json(path.join(__dirname, "public/index.html"));
+  });
+  
 // =============================================================================
 // LISTENER
 // The below code effectively "starts" our server
