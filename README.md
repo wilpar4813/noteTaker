@@ -10,23 +10,9 @@
 - Web Design By Tripp Parham 
 - Published: Saturday, February 1st, 2020
 
-***Configuration instructions***
-
-- Goto the following link:
-https://tripps-note-taker.herokuapp.com
-https://github.com/wilpar4813/noteTaker
-
-
 ***Installation instructions***
 
 - Goto https://tripps-note-taker.herokuapp.com on a web browser like Google Chrome.
-- OR...
-- Download files from repositiory.
-- Enter npm install from home directory at command line.
-- Enter node apps.js at command line
-- The noteTaker is now running. 
-- Open web browser.  Type localhost:3000/index.html
-
 
 ***Operating instructions***
 
@@ -35,8 +21,7 @@ https://github.com/wilpar4813/noteTaker
 - To post note, use the right column to enter a note title and note test.
 - Click the save icon to save a note to the localhost json file.
 - To delete a note, click the delete button next to the nore to be deleted.
-- An note title and text are required for a note to be saved.
-
+- A note title and text in each field are required for a note to be saved.
 
 ***List of files included in the following structure***
 
