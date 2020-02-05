@@ -45,21 +45,20 @@ https://github.com/wilpar4813/noteTaker
 - app.js  
 - package.json
 - package-lock.json 
-- develop folder
-    - app.js
-    - db folder
-        - notes.json
-    - public folder
-        - assets folder
-            - css folder
-                - styles.css
-            - js folder
-                - index.js
-        - index.html
-        - notes.html
-    - routes folder
-        - apiRoutes.js
-        - htmlRoutes.js
+- app.js
+- db folder
+    - notes.json
+- public folder
+    - assets folder
+        - css folder
+             - styles.css
+        - js folder
+            - index.js
+    - index.html
+    - notes.html
+- routes folder
+    - apiRoutes.js
+    - htmlRoutes.js
 
 
 ***Copyright and licensing information***
