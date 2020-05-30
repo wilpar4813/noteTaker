@@ -7,6 +7,7 @@
 * Published: Saturday, February 1st, 2020
 
 ## Description
+With busy daily schedules, it's easy to forget things that need to be done.  Many apps make note taking complicated.  With the Note Taker app, busy individuals can keep all of their notes in an easy to access database.  Edit and save notes with the click of a button. 
 
 ## Screenshoots
 
@@ -18,7 +19,7 @@
 
 ## Configuration instructions
 * No congiguration necessary.  Use on a web browser like Google Chrome.
-*  Goto the following link to see it work:
+* Goto the following link to see it work:
 https://tripps-note-taker.herokuapp.com
 
 ### Code located in Github at:
@@ -35,8 +36,7 @@ https://github.com/wilpar4813/noteTaker
 * An note title and text are required for a note to be saved.
 
 
-* List of files included in the following structure
-
+## List of files included in the following structure
 * README.md (Read file for information on site development) 
 * FORME.md  (Development use only)
 * app.js  
