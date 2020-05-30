@@ -7,7 +7,7 @@
 * Published: Saturday, February 1st, 2020
 
 ## Description
-With busy daily schedules, it's easy to forget things that need to be done.  Many apps make note taking complicated.  With the Note Taker app, busy individuals can keep all of their notes in an easy to access database.  Edit and save notes with the click of a button. 
+With busy daily schedules, it's easy to forget things that need to be done. Many apps make note taking complicated. With the Note Taker app, busy individuals can keep all of their notes in an easy to access database. Create, edit, and save notes with the click of a button. It uses an express backend to save and retrieve note data from a JSON file.
 
 ## Screenshoots
 
