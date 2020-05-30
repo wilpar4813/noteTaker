@@ -72,8 +72,7 @@ https://github.com/wilpar4813/noteTaker
 
 ## Credits and acknowledgments
 
-Special thanks to the Instructors and Staff at the UNC Coding Bootcamp.  I had to pull all resources this week to make it through.  
-
+Special thanks to the Instructors and Staff at the UNC Coding Bootcamp. 
 ## Site Updates
 
 * Verion 1.0.0 Released February 1st, 2020
