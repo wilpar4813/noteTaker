@@ -11,10 +11,10 @@ With busy daily schedules, it's easy to forget things that need to be done.  Man
 
 ## Screenshoots
 
-![Note Taker Image](./assets/noteTaker.png)
+![Note Taker Image](./assets/img/noteTaker.png)
 
 
-![Note Taker Image](./assets/noteTaker2.png)
+![Note Taker Image](./assets/img/noteTaker2.png)
 
 
 ## Configuration instructions
