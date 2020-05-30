@@ -1,25 +1,31 @@
 # noteTaker
 
 ## READ ME 
-* Note Taker
+* NoteTaker
 * Version: 1.0.0 
 * Web Design By Tripp Parham 
 * Published: Saturday, February 1st, 2020
 
-## Configuration instructions
+## Description
 
-### Goto the following link to see it work:
+## Screenshoots
+
+![Note Taker Image](./assets/noteTaker.png)
+
+
+![Note Taker Image](./assets/noteTaker2.png)
+
+
+## Configuration instructions
+* No congiguration necessary.  Use on a web browser like Google Chrome.
+*  Goto the following link to see it work:
 https://tripps-note-taker.herokuapp.com
 
 ### Code located in Github at:
 https://github.com/wilpar4813/noteTaker
 
 
-## Installation instructions
-
-* No congiguration necessary.  Use on a web browser like Google Chrome.
-
-* Operating instructions
+## Operating instructions
 
 * From the homepage, select Get Started.
 * Current notes, if any are posted, will appear in the left column.
