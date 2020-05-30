@@ -72,7 +72,7 @@ https://github.com/wilpar4813/noteTaker
 
 ## Credits and acknowledgments
 
-Special thanks to the Instructors and Staff at the UNC Coding Bootcamp.  I had to pull all resources this week to make it through.  
+Special thanks to the Instructors and Staff at the UNC Coding Bootcamp. They are an awesome team.:-) I recommnend Trilogy to anyone that wants to learn Javascript Web Development. They have a fine tuned program and lots of great resources.
 
 ## Site Updates
 
