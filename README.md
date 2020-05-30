@@ -8,16 +8,31 @@
 
 ## Configuration instructions
 
+<<<<<<< HEAD
 ### Goto the following link to see it work:
 https://tripps-note-taker.herokuapp.com
 
 ### Code located in Github at:
 https://github.com/wilpar4813/noteTaker
+=======
+***Installation instructions***
+
+- Goto https://tripps-note-taker.herokuapp.com on a web browser like Google Chrome.
+>>>>>>> d29b17df8c8006b191b10b7a7ff2ad593c34fe31
 
 
+<<<<<<< HEAD
 ## Installation instructions
 
 * No congiguration necessary.  Use on a web browser like Google Chrome.
+=======
+- From the homepage, select Get Started.
+- Current notes, if any are posted, will appear in the left column.
+- To post note, use the right column to enter a note title and note test.
+- Click the save icon to save a note to the localhost json file.
+- To delete a note, click the delete button next to the nore to be deleted.
+- A note title and text in each field are required for a note to be saved.
+>>>>>>> d29b17df8c8006b191b10b7a7ff2ad593c34fe31
 
 * Operating instructions
 
@@ -76,4 +91,8 @@ Special thanks to the Instructors and Staff at the UNC Coding Bootcamp.  I had t
 
 ## Site Updates
 
+<<<<<<< HEAD
 * Verion 1.0.0 Released February 1st, 2020
+=======
+-Verion 1.0.0 Released February 1st, 2020
+>>>>>>> d29b17df8c8006b191b10b7a7ff2ad593c34fe31
